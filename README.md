@@ -30,19 +30,28 @@ A sleek, modern movie website built with **React**, styled using **Tailwind CSS*
 ## Install dependencies
 
 npm install
+
 npm i react-use
+
 npm i tailwindcss @tailwindcss/vite
+
 Get your TMDB API Key  [https://developer.themoviedb.org/v4/reference/intro/getting-started]
 
 Go to TMDB
+
 Sign up and create an API key from the developer section
+
 Copy the API key
+
 Create a .env file in the root directory and add your API key
 
+
 REACT_APP_TMDB_API_KEY=your_api_key_here
+
 Start the development server
 
 npm run dev
+
 Open http://localhost:5173 in your browser to see the app in action
 
 ---
@@ -50,10 +59,16 @@ Open http://localhost:5173 in your browser to see the app in action
 🧰 Tech Stack
 
 React
+
 Vite
+
 TMDB API
+
 Tailwind CSS
+
 React Use
+
+---
 
 🙌 Acknowledgments
 This project was inspired by JavaScript Mastery. Huge thanks for the guidance and content!
